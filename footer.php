@@ -97,9 +97,9 @@ footer .footer-title {
 						<h5>Year Titles</h5>
 						<div class="row">
   						<div class="column">
-    					<img src="imgs-proj/car/footer0.svg" alt="FOOT" style="height:170px">
-  						</div>
-  						<div class="column">
+    						<img src="imgs-proj/car/footer0.svg" alt="FOOT" style="height:170px">
+  					</div>
+  					<div class="column">
  						<img src="imgs-proj/car/footer0.svg" alt="FOOT" style="height:170px">
  					</div>
 				</div>
@@ -107,13 +107,12 @@ footer .footer-title {
 				<div class="col-xs-12 col-sm-12 col-md-12 mt-2 mt-sm-5">
 					<ul class="list-unstyled list-inline social text-center">
 						<li class="list-inline-item"><a href="https://www.facebook.com/MercedesAMGF1/"><i class="fa fa-facebook"></i></a></li>
-            			<li class="list-inline-item"><a href="https://www.linkedin.com/company/mercedes-amg-petronas-formula-one-team/"><i class="fa fa-linkedin"></i></a></li>
+            					<li class="list-inline-item"><a href="https://www.linkedin.com/company/mercedes-amg-petronas-formula-one-team/"><i class="fa fa-linkedin"></i></a></li>
 						<li class="list-inline-item"><a href="https://twitter.com/mercedesamgf1"><i class="fa fa-twitter"></i></a></li>
 						<li class="list-inline-item"><a href="https://www.instagram.com/mercedesamgf1/"><i class="fa fa-instagram"></i></a></li>
 					</ul>
 				</div>
-				<hr>
-			</div>	
+				<hr>	
 				<div class="col-xs-12 col-sm-12 col-md-12 mt-2 mt-sm-2 text-center text-white">
 					<p class="h6">© 2021 All right Reversed. Mercedes-AMG Petronas F1 Team</a></p>
 				</div>
